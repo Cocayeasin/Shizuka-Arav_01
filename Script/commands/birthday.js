@@ -2,7 +2,7 @@ module.exports.config = {
  name: "birthday",
  version: "1.0.0",
  hasPermssion: 2,
- credits: "Shahadat SAHU",
+ credits: "Coca Arav",
  description: "মেনশন করলে শুভেচ্ছা জানাবে",
  commandCategory: "group",
  usages: "[@মেনশন]",
@@ -47,8 +47,8 @@ module.exports.run = async function ({ api, event, args }) {
  setTimeout(() => sendMessage(msg), delay);
  });
 
- } catch (error) {
- console.error(error);
+ } catch (sendMessage) {
+ console.sendMessage(sendMessage);
  api.sendMessage("বার্তা পাঠাতে সমস্যা হয়েছে!\nদয়া করে আবার চেষ্টা করুন!", event.threadID);
  }
 };
