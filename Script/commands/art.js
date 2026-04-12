@@ -2,7 +2,7 @@ module.exports.config = {
   name: "art",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "CYBER BOT TEAM",
+  credits: "—͟͞͞★ 𝗧𝗘𝗖 | 𝗧𝗛𝗥𝗢𝗡𝗘 𝗘𝗧𝗘𝗥𝗡𝗔𝗟 🌑 𝗖𝗟𝗔𝗡",
   description: "Apply AI art style (anime)",
   commandCategory: "editing",
   usages: "reply to an image",
