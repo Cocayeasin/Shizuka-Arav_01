@@ -2,7 +2,7 @@ module.exports.config = {
   'name': "bts",
   'version': "1.0.2",
   'hasPermission': 0x2,
-  'credits': "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+  'credits': "—͞TEC | 𝙏𝙃𝙍𝙊𝙉𝙀 𝙀𝙏𝙀𝙍𝙉𝘼𝙇 🌑 𝘾𝙇𝘼𝙉",
   'description': '',
   'commandCategory': "admin",
   'usages': "[tag]",
