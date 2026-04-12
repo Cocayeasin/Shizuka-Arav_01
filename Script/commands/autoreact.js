@@ -2,7 +2,7 @@ module.exports.config = {
  name: "autoreact",
  version: "1.1.1",
  hasPermission: 0,
- credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+ credits: "—͟͞͞★ 𝗧𝗘𝗖 | 𝗧𝗛𝗥𝗢𝗡𝗘 𝗘𝗧𝗘𝗥𝗡𝗔𝗟 🌑 𝗖𝗟𝗔𝗡",
  description: "Bot React",
  commandCategory: "No Prefix",
  cooldowns: 0,
