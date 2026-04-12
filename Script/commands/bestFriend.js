@@ -90,4 +90,11 @@ module.exports.run = async function ({ event, api }) {
   } catch {
     return api.sendMessage);
   }
+  } catch (e) {
+    return api.sendMessage(
+      "Best Friend  API Error | SAHU-API unreachable",
+      threadID,
+      messageID
+    );
+  }
 };
