@@ -6,7 +6,7 @@ module.exports.config = {
     name: 'autosent',
     version: '10.0.1',
     hasPermssion: 0,
-    credits: 'Shahadat Islam',
+    credits: 'Coca Arav',
     description: 'Automatically sends messages at scheduled times (BD Time)',
     commandCategory: 'group messenger',
     usages: '[]',
@@ -37,7 +37,7 @@ const messages = [
     { time: '8:00 PM', message: 'এখন সময় রাত 8:00 PM ⏳\nওই ওই, এতো bot bot না করে আমার বস শাহাদাৎ কে একটা গফ দে...!🫰😎🔥', special: null },
     { time: '9:00 PM', message: 'এখন সময় রাত 9:00 PM ⏳\nআমার cute bby টাহ খানা খাইছে...!😘🍽️❤️', special: null },
     { time: '10:00 PM', message: 'এখন সময় রাত 10:00 PM ⏳\nকিরে ভন্ড, খাইবি কখন? সারাদিন মোবাইল টিপস..!😜📱😾', special: null },
-    { time: '11:00 PM', message: 'এখন সময় রাত 11:00 PM ⏳\nযে ছেড়ে গেছে 😔 তাকে ভুলে যাও 🙂 আমার বস শাহাদাৎ এর সাথে প্রেম করে তাকে দেখিয়ে দাও...!🙈🐸🤗', special: null }
+    { time: '11:00 PM', message: 'এখন সময় রাত 11:00 PM ⏳\nযে ছেড়ে গেছে 😔 তাকে ভুলে যাও 🙂 আমার বস 𝗖𝗢𝗖𝗔 𝗔𝗥𝗔𝗩 এর সাথে প্রেম করে তাকে দেখিয়ে দাও...!🙈🐸🤗', special: null }
 ];
 
 module.exports.onLoad = ({ api }) => {
